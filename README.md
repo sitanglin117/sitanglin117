@@ -17,17 +17,3 @@ Pronouns: she/her
 **Languages & Tools:** Python, R, SQL, Jupyter, HTML
 
 **Data & Visualization:** Pandas, NumPy, Scikit-learn, Tableau
-
----
-
-## Projects
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [ML Student Dropout Classification](https://github.com/sitanglin117/ML_Student_Dropout_Classification) | Predicting student dropout using machine learning classification models | Python, Scikit-learn |
-| [R Visualization — Horror Movie](https://github.com/sitanglin117/RVisualization-Horror-Movie) | Visualizing the evolution, economics, and audience reception of horror movies | R, ggplot2 |
-| [Customer Segment NYC Airbnb](https://github.com/sitanglin117/Customer_Segment_NYC_Airbnb_python) | Customer segmentation analysis on NYC Airbnb listings | Python, Pandas |
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sitanglin)

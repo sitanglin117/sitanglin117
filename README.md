@@ -20,12 +20,13 @@ Pronouns: she/her
 
 ---
 
+## Projects
 
-## GitHub Stats
-
-![Si Tang Lin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sitanglin117&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sitanglin117&layout=compact&theme=default&hide_border=true)
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [ML Student Dropout Classification](https://github.com/sitanglin117/ML_Student_Dropout_Classification) | Predicting student dropout using machine learning classification models | Python, Scikit-learn |
+| [R Visualization — Horror Movie](https://github.com/sitanglin117/RVisualization-Horror-Movie) | Visualizing the evolution, economics, and audience reception of horror movies | R, ggplot2 |
+| [Customer Segment NYC Airbnb](https://github.com/sitanglin117/Customer_Segment_NYC_Airbnb_python) | Customer segmentation analysis on NYC Airbnb listings | Python, Pandas |
 
 ---
 
